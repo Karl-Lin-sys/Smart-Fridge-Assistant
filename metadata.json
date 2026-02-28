@@ -1,0 +1,5 @@
+{
+  "name": "Smart Fridge Assistant",
+  "description": "Snap a photo of your fridge to get recipe suggestions, step-by-step cooking instructions, and manage your shopping list.",
+  "requestFramePermissions": ["camera"]
+}
